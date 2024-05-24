@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skuzg\\source\\repos\\projem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|c:\\users\\skuzg\\source\\repos\\projem\\projem\\kaydedilmi\u015Frandevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|solutionrelative:projem\\kaydedilmi\u015Frandevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|C:\\Users\\skuzg\\source\\repos\\projem\\projem\\kaydedilmi\u015Frandevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|solutionrelative:projem\\kaydedilmi\u015Frandevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|C:\\Users\\skuzg\\source\\repos\\projem\\projem\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|solutionrelative:projem\\rapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|C:\\Users\\skuzg\\source\\repos\\projem\\projem\\m\u00FC\u015Fteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|solutionrelative:projem\\m\u00FC\u015Fteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|C:\\Users\\skuzg\\source\\repos\\projem\\projem\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CFE461-8765-4468-8319-7359F7494629}|projem\\projem.csproj|solutionrelative:projem\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kaydedilmi\u015Frandevular.cs",
+              "DocumentMoniker": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\kaydedilmi\u015Frandevular.cs",
+              "RelativeDocumentMoniker": "projem\\kaydedilmi\u015Frandevular.cs",
+              "ToolTip": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\kaydedilmi\u015Frandevular.cs",
+              "RelativeToolTip": "projem\\kaydedilmi\u015Frandevular.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAswHwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:09:50.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kaydedilmi\u015Frandevular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\kaydedilmi\u015Frandevular.cs",
+              "RelativeDocumentMoniker": "projem\\kaydedilmi\u015Frandevular.cs",
+              "ToolTip": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\kaydedilmi\u015Frandevular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "projem\\kaydedilmi\u015Frandevular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:09:33.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rapor.cs",
+              "DocumentMoniker": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\Rapor.cs",
+              "RelativeDocumentMoniker": "projem\\Rapor.cs",
+              "ToolTip": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\Rapor.cs",
+              "RelativeToolTip": "projem\\Rapor.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAvwCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:57:56.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "m\u00FC\u015Fteriekle.cs",
+              "DocumentMoniker": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\m\u00FC\u015Fteriekle.cs",
+              "RelativeDocumentMoniker": "projem\\m\u00FC\u015Fteriekle.cs",
+              "ToolTip": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\m\u00FC\u015Fteriekle.cs",
+              "RelativeToolTip": "projem\\m\u00FC\u015Fteriekle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:55:27.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\Musteri.cs",
+              "RelativeDocumentMoniker": "projem\\Musteri.cs",
+              "ToolTip": "C:\\Users\\skuzg\\source\\repos\\projem\\projem\\Musteri.cs",
+              "RelativeToolTip": "projem\\Musteri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:46:32.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
